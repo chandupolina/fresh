@@ -1,1 +1,1 @@
-Hello Git
+ GIT IS POWERFUL
